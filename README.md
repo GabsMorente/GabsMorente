@@ -9,9 +9,6 @@ Já atuei como <strong>programadora full stack júnior durante 1 ano</strong>, o
 Atualmente, trabalho como <strong>Assistente de Requisitos na Vitru Educação</strong>, e estou focada em expandir meus conhecimentos, estudando Java, Spring Boot e desenvolvimento de APIs RESTful, com o objetivo de me tornar uma profissional ainda mais completa 😊
 </p>
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 ## Minhas Skills
 
 **Aplicações e dados**
@@ -23,6 +20,8 @@ Atualmente, trabalho como <strong>Assistente de Requisitos na Vitru Educação</
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsMorente&hide=html&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 **Utilidades**
 
@@ -39,6 +38,8 @@ Atualmente, trabalho como <strong>Assistente de Requisitos na Vitru Educação</
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=0052CC)
+
+[![Gabrielle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabsMorente&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   <a href="mailto:morentepernagabrielle@gmail.com" title="Gmail">
