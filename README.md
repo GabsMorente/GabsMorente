@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+
 <p align="left"> 
   Meu nome é Gabrielle Morente Perna, sou estudante do 3º ano de <strong>Engenharia de Software</strong>.
 
@@ -8,6 +9,9 @@ Já atuei como <strong>programadora full stack júnior durante 1 ano</strong>, o
 Atualmente, trabalho como <strong>Assistente de Requisitos na Vitru Educação</strong>, e estou focada em expandir meus conhecimentos, estudando Java, Spring Boot e desenvolvimento de APIs RESTful, com o objetivo de me tornar uma profissional ainda mais completa 😊
 </p>
 
+[![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 ## Minhas Skills
 
 **Aplicações e dados**
