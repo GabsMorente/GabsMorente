@@ -3,7 +3,7 @@
 
 
 <p align="left"> 
-  Meu nome é Gabrielle Morente Perna, sou estudante do 3º ano de <strong>Engenharia de Software</strong>.
+  Meu nome é Gabrielle Morente Perna, sou estudante do 4º ano de <strong>Engenharia de Software</strong>.
 
 Já atuei como <strong>programadora full stack júnior durante 1 ano</strong>, onde tive a oportunidade de trabalhar em todas as etapas do desenvolvimento de sistemas, utilizando tecnologias como <strong>PHP, HTML, CSS, JavaScript e MySQL</strong>, além de um pouco de AWS para hospedagem e serviços em nuvem.
 
